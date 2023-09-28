@@ -8,4 +8,8 @@
 ul,
 li {
   list-style-type: none;
+  font-size: 1.12em;
+  font-weight: 600;
+  position: relative;
+  right: 7.5px;
 }
