@@ -125,3 +125,19 @@ img {
     background-color: #f9f9f9;
   }
 }
+
+.NextButton {
+  display: flexbox;
+  height: 65px;
+  width: 150px;
+  background-color: grey;
+  position: absolute;
+  right: 865px;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding: 0.6em 1.2em;
+}
+.NextButton:hover {
+  background-color: blue;
+  border-color: blanchedalmond;
+}
